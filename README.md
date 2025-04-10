@@ -1,6 +1,6 @@
-# AI Conversation With Voice
+# AI vs AI Conversation
 
-A Node.js application that simulates an argumentative conversation between two AI characters (Maverick and Blaze) with voice output using Google Cloud Text-to-Speech.
+A Node.js application that facilitates a dynamic conversation between two AI characters (Maverick and Blaze), bringing their argument to life with voice output via Google Cloud Text-to-Speech.
 
 ## Features
 
